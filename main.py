@@ -1,4 +1,4 @@
-def multi_token_forward_backward_motif(self,
+def multi_token_forward_backward(self,
                                  hidden_states: torch.FloatTensor,
                                  input_embeds: torch.FloatTensor,
                                  outputs: MotifModelOutputWithPast,
